@@ -45,18 +45,119 @@ For more information, see the [Assignments]({{< baseurl >}}/pages/assignments) s
 Calendar
 --------
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Politics of Knowledge in Middle East Political Science |
-| 2 | Political Violence: Ideas and Structure |
-| 3 | Authoritarianism |
-| 4 | Sectarianism |
-| 5 | Gender |
-| 6 | Islamism |
-| 7 | Historical Approaches to Developments |
-| 8 | Arab Spring |
-| 9 | Religion |
-| 10 | Elections |
-| 11 | Anti-Americanism and Views of the West 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Politics of Knowledge in Middle East Political Science
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Political Violence: Ideas and Structure
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Authoritarianism
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Sectarianism
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Gender
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Islamism
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Historical Approaches to Developments
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Arab Spring
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Religion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Elections
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Anti-Americanism and Views of the West
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 1 One place to start is: Bill, James A., and Robert Springborg. _Politics in the Middle East_. 5th ed. Pearson, 1999. ISBN: 9780321005373.
