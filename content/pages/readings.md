@@ -32,9 +32,9 @@ Politics of Knowledge in Middle East Political Science
 
 _Required readings:_
 
-Lust-Okar, Ellen, Lisa Anderson, Steve Heydemann, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Comparative Politics of the Middle East and Academic Freedom." (PDF)](http://www.melanicammett.org/wp-content/uploads/2017/10/Cammett_APSA_CPnewsletter_Winter2007.pdf) _APSA-CP Newsletter 18_ (Winter 2007): 12–15.
+Lust-Okar, Ellen, Lisa Anderson, Steve Heydemann, et al. ["Comparative Politics of the Middle East and Academic Freedom." (PDF)](http://www.melanicammett.org/wp-content/uploads/2017/10/Cammett_APSA_CPnewsletter_Winter2007.pdf) _APSA-CP Newsletter 18_ (Winter 2007): 12–15.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Ethics of Research in the Middle East." (PDF)](https://pomeps.org/wp-content/uploads/2014/07/POMEPS_Studies_8_Ethics.pdf) POMEPS Studies 8, July 2, 2014.
+["The Ethics of Research in the Middle East." (PDF)](https://pomeps.org/wp-content/uploads/2014/07/POMEPS_Studies_8_Ethics.pdf) POMEPS Studies 8, July 2, 2014.
 
 _More resources:_
 
@@ -88,7 +88,7 @@ Getmansky, Anna, and Thomas Zeitzoff. "[Terrorism and Voting: The Effect of Rock
 
 Menoret, Pascal. _Joyriding in Riyadh: Oil, Urbanism, and Road Revolt_. Cambridge University Press, 2014. ISBN: 9781107641952. \[Preview with [Google Books](https://books.google.com/books?id=XgJeAwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Hegghammer, Thomas. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Rise of Muslim Foreign Fighters: Islam and the Globalization of Jihad." (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/ISEC_a_00023) _International Security_ 35, no. 3 (2011): 53–91.
+Hegghammer, Thomas. ["The Rise of Muslim Foreign Fighters: Islam and the Globalization of Jihad." (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/ISEC_a_00023) _International Security_ 35, no. 3 (2011): 53–91.
 
 ———. _Jihad in Saudi Arabia: Violence and Pan-Islamism since 1979_. Cambridge University Press, 2010. ISBN: 9780521732369. \[Preview with [Google Books](https://books.google.com/books?id=bNLODP6w6GkC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
@@ -150,11 +150,11 @@ Sectarianism
 
 _Required readings:_
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Politics of Sectarianism." (PDF - 1MB)](https://pomeps.org/wp-content/uploads/2014/06/POMEPS_Studies4_Sectarianism.pdf) POMEPS Studies 4, November 13, 2013.
+["The Politics of Sectarianism." (PDF - 1MB)](https://pomeps.org/wp-content/uploads/2014/06/POMEPS_Studies4_Sectarianism.pdf) POMEPS Studies 4, November 13, 2013.
 
 Christia, Fotini, Elizabeth Dekeyser, and Dean Knox. "[To Karbala: Surveying Religious Shi’a from Iran and Iraq](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2885347)," MIT Political Science Department Research Paper No. 2016-39. December 15, 2016.
 
-Christia, Fotini, Dean Knox, and Jaffar Al-Rikabi. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Networks of Sectarianism: Experimental Evidence on Access to Services in Baghad." (PDF - 11MB)](https://columbiapeseminar.files.wordpress.com/2015/09/fotini.pdf) March 1, 2017.
+Christia, Fotini, Dean Knox, and Jaffar Al-Rikabi. ["Networks of Sectarianism: Experimental Evidence on Access to Services in Baghad." (PDF - 11MB)](https://columbiapeseminar.files.wordpress.com/2015/09/fotini.pdf) March 1, 2017.
 
 Cammett, Melani. "Welfare and Sectarianism in Plural Societies." Chapter 1 in _Compassionate Communalism: Welfare and Sectarianism in Lebanon_. Cornell University Press, 2014. ISBN: 9780801478932. \[Preview with [Google Books](https://books.google.com/books?id=Nb1fAwAAQBAJ&pg=PA7=onepage#v=onepage&q&f=false)\]
 
@@ -184,13 +184,13 @@ Ben Shitrit, Lihi. "Introduction: Frames of Exception and Righteous Transgressio
 
 ———. "Women's Protests: Exceptional Times and Exceptional Methods." Chapter 4 in in _Righteous Transgressions: Women’s Activism on the Israeli and Palestinian Religious Right_. Princeton University Press, 2015. ISBN: 9780691164571. \[Preview with [Google Books](https://books.google.com/books?id=zUjuCQAAQBAJ&pg=PA128=onepage#v=onepage&q&f=false)\]
 
-Nielsen, Richard A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Women's Authority in Patriarchal Social Movements: The Case of Female Salafi Preachers." (PDF)](http://www.mit.edu/~rnielsen/daeyat.pdf) January 9, 2018.
+Nielsen, Richard A. ["Women's Authority in Patriarchal Social Movements: The Case of Female Salafi Preachers." (PDF)](http://www.mit.edu/~rnielsen/daeyat.pdf) January 9, 2018.
 
 Blaydes, Lisa, and Drew A. Linzer. "[The Political Economy of Women’s Support for Fundamentalist Islam](https://www.cambridge.org/core/journals/world-politics/article/political-economy-of-womens-support-for-fundamentalist-islam/16220E22D015E0C93F776DB0B341EDEB)." _World Politics_ 60, no. 4 (2008): 576–609.
 
 Bush, Sarah Sunn, and Eleanor Gao. "[Small Tribes, Big Gains: The Strategic Uses of Gender Quotas in the Middle East](https://www.researchgate.net/publication/312300333_Small_Tribes_Big_Gains_The_Strategic_Uses_of_Gender_Quotas_in_the_Middle_East)." _Comparative Politics_ 49, no. 2 (2017): 149–67.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Women and Gender in Middle East Politics." (PDF - 1.3MB)](https://pomeps.org/wp-content/uploads/2016/05/POMEPS_Studies_19_Gender_Web.pdf) POMEPS Studies 19, May 10, 2016.
+["Women and Gender in Middle East Politics." (PDF - 1.3MB)](https://pomeps.org/wp-content/uploads/2016/05/POMEPS_Studies_19_Gender_Web.pdf) POMEPS Studies 19, May 10, 2016.
 
 _More resources:_
 
@@ -234,13 +234,13 @@ Wickham, Carrie Rosefsky. "Conceptualizing Islamist Movement Change." Chapter 1 
 
 El-Ghobashy, Mona. "[The Metamorphosis of the Egyptian Muslim Brothers](https://www.jstor.org/stable/3880106?seq=1#page_scan_tab_contents)." _International Journal of Middle East Studies_ 37, no. 3 (2005): 373–95.
 
-Meyersson, Erik. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Islamic Rule and the Empowerment of the Poor and Pious." (PDF)](https://www.hhs.se/contentassets/a1f4542a532442f1abd9fae963fb69d9/2013-islamic-rule-and-the-empowerment-of-the-poor-and-pious.pdf) _Econometrica_ 82, no. 1 (2014): 229–69.
+Meyersson, Erik. ["Islamic Rule and the Empowerment of the Poor and Pious." (PDF)](https://www.hhs.se/contentassets/a1f4542a532442f1abd9fae963fb69d9/2013-islamic-rule-and-the-empowerment-of-the-poor-and-pious.pdf) _Econometrica_ 82, no. 1 (2014): 229–69.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Evolving Methodologies in the Study of Islamism." (PDF - 1MB)](https://pomeps.org/wp-content/uploads/2016/03/POMEPS_Studies_17_Methods_Web.pdf) POMEPS Studies 17, March 7, 2016.
+["Evolving Methodologies in the Study of Islamism." (PDF - 1MB)](https://pomeps.org/wp-content/uploads/2016/03/POMEPS_Studies_17_Methods_Web.pdf) POMEPS Studies 17, March 7, 2016.
 
 _More resources:_
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Islamist Social Services." (PDF - 3MB)](https://pomeps.org/wp-content/uploads/2014/10/POMEPS_Studies_9_SocialServices_web.pdf) POMEPS Studies 9, October 15, 2014.
+["Islamist Social Services." (PDF - 3MB)](https://pomeps.org/wp-content/uploads/2014/10/POMEPS_Studies_9_SocialServices_web.pdf) POMEPS Studies 9, October 15, 2014.
 
 Wickham, Carrie Rosefsky. _Mobilizing Islam: Religion, Activism, and Political Change in Egypt_. Columbia University Press, 2002. ISBN: 9780231125734. \[Preview with [Google Books](https://books.google.com/books?id=n2U0WGHUBPIC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
@@ -312,7 +312,7 @@ Hassanpour, Navid. "[Media Disruption and Revolutionary Unrest: Evidence from Mu
 
 Steinert-Threlkeld, Zachary C., Delia Mocanu, Alessandro Vespignani, et al. "[Online Social Networks and Offline Protest](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-015-0056-y)." _EPJ Data Science_ (2015) 4:19.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Reflections Five Years After the Uprisings." (PDF - 2.5MB)](https://pomeps.org/wp-content/uploads/2016/03/POMEPS_Studies_18_Reflections_Web.pdf) POMEPS Studies 18, March 28, 2016.
+["Reflections Five Years After the Uprisings." (PDF - 2.5MB)](https://pomeps.org/wp-content/uploads/2016/03/POMEPS_Studies_18_Reflections_Web.pdf) POMEPS Studies 18, March 28, 2016.
 
 
 {{< tdclose >}}
@@ -332,11 +332,11 @@ _Required readings:_
 
 Hassner, Ron E. "[Blasphemy and Violence](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-2478.2010.00634.x)." _International Studies Quarterly_ 55, no. 1 (2011): 23–45.
 
-Chaney, Eric. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Revolt on the Nile: Economic Shocks, Religion, and Political Power." (PDF)](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10233) _Econometrica_ 81, no. 5 (2013): 2033–53.
+Chaney, Eric. ["Revolt on the Nile: Economic Shocks, Religion, and Political Power." (PDF)](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10233) _Econometrica_ 81, no. 5 (2013): 2033–53.
 
 Taylor, Julie. "[Prophet Sharing: Strategic Interaction between Muslim Clerics and Middle Eastern Regimes](https://www.tandfonline.com/doi/abs/10.1080/15288170701878227)." _Journal of Islamic Law and Culture_ 10, no. 1 (2008): 41–62.
 
-Campante, Filipe, and David Yanagizawa-Drott. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Does Religion Affect Economic Growth and Happiness? Evidence from Ramadan](https://academic.oup.com/qje/article/130/2/615/2330341)." _Quarterly Journal of Economics_ 130, no. 2 (2015): 615–58.
+Campante, Filipe, and David Yanagizawa-Drott. "[Does Religion Affect Economic Growth and Happiness? Evidence from Ramadan](https://academic.oup.com/qje/article/130/2/615/2330341)." _Quarterly Journal of Economics_ 130, no. 2 (2015): 615–58.
 
 Clingingsmith, David, Asim Ijaz Khwaja, and Michael Kremer. "[Estimating the Impact of The Hajj: Religion and Tolerance in Islam's Global Gathering](https://academic.oup.com/qje/article/124/3/1133/1905120)." _Quarterly Journal of Economics_ 124, no. 3 (2009): 1133–70.
 
@@ -396,7 +396,7 @@ Jamal, Amaney A. "Introduction: Pro-American Democracy or No Democracy At All?" 
 
 Blaydes, Lisa, and Drew A. Linzer. "[Elite Competition, Religiosity, and Anti-Americanism in the Islamic World](https://www.cambridge.org/core/journals/american-political-science-review/article/elite-competition-religiosity-and-anti-americanism-in-the-islamic-world/B51B3B740F267EC28E3218CE3ECD1972)." _American Political Science Review_ 106, no. 2 (2012): 225–43.
 
-Jamal, Amaney A., Robert O. Keohane, David Romney, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Anti-Americanism or Anti-Interventionism in Arabic Twitter Discourses." (PDF)](https://scholar.harvard.edu/files/dtingley/files/aatext.pdf) _Perspectives on Politics_ 13, no. 1 (2015): 55–73.
+Jamal, Amaney A., Robert O. Keohane, David Romney, et al. ["Anti-Americanism or Anti-Interventionism in Arabic Twitter Discourses." (PDF)](https://scholar.harvard.edu/files/dtingley/files/aatext.pdf) _Perspectives on Politics_ 13, no. 1 (2015): 55–73.
 
 Corstange, Daniel. "[Anti-American Behavior in the Middle East: Evidence from a Field Experiment in Lebanon](https://www.journals.uchicago.edu/doi/abs/10.1086/683372)." _Journal of Politics_ 78, no. 1 (2016): 311–25.
 
